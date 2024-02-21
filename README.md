@@ -1,4 +1,4 @@
-# latihan-branch
+# latihan-percabangan
 
 Hari ini aku lulus kelas Memulai Pemrograman Dengan Java di Dicoding.
 
